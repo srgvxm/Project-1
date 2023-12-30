@@ -1,0 +1,82 @@
+[{
+  "_id": {
+    "$oid": "657ddb03b538f02a3a1da14e"
+  },
+  "lessons": {
+    "monday": {
+      "lesson1": {
+        "message": "",
+        "room": "",
+        "time": "",
+        "group": ""
+      }
+    },
+    "tuesday": {
+      "lesson1": {
+        "message": "",
+        "room": "8А",
+        "time": "08:00-09:30",
+        "type": "Практика",
+        "group": "ПИ-б-о-232"
+      },
+      "lesson2": {
+        "message": "",
+        "room": "8А",
+        "time": "09:50-11:20",
+        "type": "Практика",
+        "group": "ПИ-б-о-232"
+      }
+    },
+    "wednesday": {
+      "lesson1": {
+        "message": "",
+        "room": "302А",
+        "time": "11:30-13:00",
+        "type": "Лекция",
+        "group": "ПИ-б-о-231, ПИ-б-о-232, ПИ-б-о-233, ИВТ-б-о-231, ИВТ-б-о-232"
+      }
+    },
+    "tsurthday": {
+      "lesson1": {
+        "message": "",
+        "room": "",
+        "time": "",
+        "type": "",
+        "group": ""
+      }
+    },
+    "friday": {
+      "lesson1": {
+        "message": "",
+        "room": "8А",
+        "time": "08:00-09:30",
+        "type": "Практика",
+        "group": "ИВТ-б-о-232"
+      },
+      "lesson2": {
+        "message": "",
+        "room": "8А",
+        "time": "09:50-11:20",
+        "type": "Практика",
+        "group": "ИВТ-б-о-232"
+      },
+      "lesson3": {
+        "message": "",
+        "room": "8А",
+        "time": "11:30-13:00",
+        "type": "Практика",
+        "group": "ИВТ-б-о-231"
+      },
+      "lesson4": {
+        "message": "",
+        "room": "8А",
+        "time": "13:20-14:50",
+        "type": "Практика",
+        "group": "ИВТ-б-о-231"
+      }
+    }
+  },
+  "name": "Владимир",
+  "surname": "Чабанов",
+  "subject": "АиП"
+}]
